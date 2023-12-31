@@ -33,6 +33,6 @@
 </p>
 
 ------------
-<p align="center">Currently, the weather is: <b> -7°C, <i>broken clouds.</i></b></br>Today, the sun rises at <b>08:26</b> and sets at <b>16:36</b>.</p>
+<p align="center">Currently, the weather is: <b> -14°C, <i>few clouds.</i></b></br>Today, the sun rises at <b>08:26</b> and sets at <b>16:36</b>.</p>
 
 <p align="center">This <i>README</i> file is generated <b>every 3 hours.</p>
