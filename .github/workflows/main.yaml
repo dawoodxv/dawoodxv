@@ -12,8 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Master branch
+      - name: Checkout current repository to Main branch
         uses: actions/checkout@v1
+        with:
+          ref: main
       - name: Setup NodeJs 20.x
         uses: actions/setup-node@v1
         with:
