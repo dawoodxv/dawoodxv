@@ -1,7 +1,17 @@
 <h1>Hey! Nice to see you. 👋 </h1>
 
 
-<p>Welcome to my page! </br> I'm Muhammad!</p>
+<p>Welcome to my page! </br> I'm a 3rd-year Computer Science student currently enrolled in the co-op program at the <b>University of Manitoba</b> in <b>Winnipeg, Canada</b>.
+
+- 🔭 I’m currently working on various projects.
+- 🌱 I’m continuously learning and exploring new technologies in the field of computer science.
+- 👯 I’m open to collaborating on interesting projects and connecting with fellow developers.
+- 💬 Ask me about anything (within reason).
+- 📫 You can reach me through [safdarmd@myumanitoba.ca](mailto:safdarmd@myumanitoba.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/dawoodxv).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy hiking and cycling in my free time.</p>
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -23,6 +33,6 @@
 </p>
 
 ------------
-<p align="center">Currently, the weather is: <b> -9°C, <i>few clouds.</i></b></br>Today, the sun rises at <b>08:26</b> and sets at <b>16:35</b>.</p>
+<p align="center">Currently, the weather is: <b> -7°C, <i>broken clouds.</i></b></br>Today, the sun rises at <b>08:26</b> and sets at <b>16:36</b>.</p>
 
 <p align="center">This <i>README</i> file is generated <b>every 3 hours.</p>
