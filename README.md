@@ -3,7 +3,6 @@
 
 <p>Welcome to my page! </br> I'm a 3rd-year Computer Science student currently enrolled in the co-op program at the <b>University of Manitoba</b> in <b>Winnipeg, Canada</b>.
 
-- 🔭 I’m currently working on various projects.
 - 🌱 I’m continuously learning and exploring new technologies in the field of computer science.
 - 👯 I’m open to collaborating on interesting projects and connecting with fellow developers.
 - 💬 Ask me about anything (within reason).
