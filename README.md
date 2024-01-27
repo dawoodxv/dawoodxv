@@ -6,7 +6,6 @@
 - I’m continuously learning and exploring new technologies in the field of computer science.
 - 📫 You can reach me through [safdarmd@myumanitoba.ca](mailto:safdarmd@myumanitoba.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/dawoodxv).
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy hiking and biking in my free time.</p>
 
 
 <h3>Things I code with</h3>
