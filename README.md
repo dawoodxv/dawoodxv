@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you. 👋 </h1>
 
 
-<p>Welcome to my profile! </br> I'm a 3rd-year Computer Science student currently enrolled in the co-op program at the <b>University of Manitoba</b> in <b>Winnipeg, Canada</b>.
+<p>Welcome to my profile! </br> I'm a 4th-year Computer Science student currently enrolled in the co-op program at the <b>University of Manitoba</b> in <b>Winnipeg, Canada</b>.
 
 - I’m continuously learning and exploring new technologies in the field of computer science.
 - 📫 You can reach me through [safdarmd@myumanitoba.ca](mailto:safdarmd@myumanitoba.ca) or connect with me on [LinkedIn](https://www.linkedin.com/in/dawoodxv).
